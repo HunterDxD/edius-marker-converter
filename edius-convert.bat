@@ -6,6 +6,8 @@ rem
 rem  Verwendung:
 rem    CSV-Datei auf dieses Skript ziehen (Drag und Drop)
 rem    Oder starten ohne Argument: alle CSV im Ordner werden verarbeitet
+rem
+rem  Autor: https://github.com/HunterDxD
 rem =========================================================
 setlocal enabledelayedexpansion
 

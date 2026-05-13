@@ -10,6 +10,8 @@ rem
 rem  Das Video (MP4) muss im gleichen Ordner liegen und den
 rem  gleichen Basisnamen wie die TXT-Datei enthalten.
 rem  Beispiel: "Konzert-2024.txt" + "Konzert-2024-export.mp4" = Match
+rem
+rem  Autor: https://github.com/HunterDxD
 rem =========================================================
 setlocal enabledelayedexpansion
 

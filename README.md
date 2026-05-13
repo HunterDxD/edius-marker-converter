@@ -78,3 +78,9 @@ Nimmt eine konvertierte `.txt`-Datei und importiert sie über Drax direkt in ein
 - Funktioniert mit **Windows 7 und neuer** (keine zusätzliche Software nötig außer Drax für den Import)
 - Ordnernamen und Dateipfade mit **Leerzeichen** werden korrekt verarbeitet
 - Format Version 4 (XML-Export) wird nicht unterstützt – bitte Format 2 oder 3 beim Export wählen
+
+---
+
+## Kontakt
+
+Bei Problemen oder Fragen gerne über GitHub melden: [github.com/HunterDxD](https://github.com/HunterDxD)
